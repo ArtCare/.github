@@ -1,3 +1,3 @@
 <div align="center">
-<img src="./logoBlue.svg">
+<img src="./assets/logoBlue.svg">
 </div>

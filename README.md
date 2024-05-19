@@ -1,3 +1,3 @@
 <div align="center">
-<img src="./assets/logoBlue.svg">
+<img src="./assets/artcareBrownlogo.svg">
 </div>
